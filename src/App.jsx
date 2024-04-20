@@ -3,9 +3,8 @@ import "./App.css";
 import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com?apikey=461d7eb4";
+const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=461d7eb4";
 
-//
 const movie1 = {
   Title: "Guardians of the Galaxy Vol. 2",
   Year: "2017",
