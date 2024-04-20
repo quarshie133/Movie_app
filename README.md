@@ -1,4 +1,4 @@
-# Movie Web App -React + Vite
+# Movie Web App - React + Vite
 
 # Description
 This is a single webpage movie web application, in which I used useState Hook for state management, useEffect Hook for data fetching,
